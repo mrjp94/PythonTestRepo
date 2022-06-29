@@ -1,6 +1,6 @@
 def main():
     print("Hello World!")
-    print("Pipeline build test")
+    print("Runner scan test")
 
 if __name__ == "__main__":
     main()
